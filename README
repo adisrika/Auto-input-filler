@@ -1,0 +1,7 @@
+Only works on firefox
+
+This is a greasemonkey script which executes whenever you visit a site.
+
+This script autofills username field to adi.sriku366 which you can modify after installing the script. To do that first install greasemonkey plugin https://addons.mozilla.org/en-US/firefox/addon/748 and then click on the autofiller.user.js
+
+Once you install goto Tools->GreaseMonkey->ManageScripts . Click on edit autofiller and add your username in place of adi.sriku366
